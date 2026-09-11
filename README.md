@@ -1,3 +1,8 @@
+"Please Have A Look To See The Machine Learning Implement On An Exixting System"
+<p align="left">
+  <img src="assets/preview.jpg" alt="Project Preview" width="600">
+</p>
+
 # Doctor's Portal System
 
 A comprehensive, full-stack Doctor's Portal Web Application built with the **MERN** stack (**M**, Express.js, **React**, **Node.js**). This platform connects patients with healthcare providers, allowing patients to easily view available medical services, book appointments, and manage their health schedules online.
