@@ -1,3 +1,10 @@
+<a href="https://github.com/ParvasHossain/Capston_Machine_Learning_for_Predictive_Analytics_in_Healthcare">
+   <span style="display: inline-block; background: #0070f3; color: white; font-family: sans-serif; font-weight: bold; padding: 12px 24px; border-radius: 7px; box-shadow: 0 4px 14px 0 rgba(0, 118, 243, 0.39);">
+    🚀Click To View Main Repository →
+  </span>
+</a>
+<br>
+<br>
 "Please Have A Look To See The Machine Learning Implement On An Exixting System"
 <p align="left">
   <img src="assets/preview.jpg" alt="Project Preview" width="600">
