@@ -1,3 +1,5 @@
+> 📦 **Note:** If you download the ZIP file, there is no need to download the other files separately, as they are already included in the ZIP archive. Thank you! 😊
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
